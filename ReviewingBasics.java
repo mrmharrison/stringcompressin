@@ -16,7 +16,7 @@ System.out.println(f ==f2) ;
 
 System.out.println(f3 ==f) ;
 
-	
+String s;	
 	
 	}
 }
